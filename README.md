@@ -10,7 +10,7 @@ It’s modular, efficient, and made with real users in mind — because automati
 
 ### 🔧 Features you’ll love:  
 🧬 Intelligent detection of systems and services  
-🔗 Seamless integration with external tools
+🔗 Seamless integration with external tools  
 🧩 Easy-to-extend modular architecture  
 📄 Clear, verbose logging — no black boxes here  
 🤖 Optional AI Assistance
