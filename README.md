@@ -19,7 +19,7 @@ It’s modular, efficient, and made with real users in mind — because automati
 
 Cybersecurity tools often forget one thing — *you*. I build with transparency and control front and center, so you always know what’s happening under the hood. No surprise scripts, just smart, reliable help to make your pentesting life easier.
 
-## Let’s connect!
+## 🤝 Let’s connect!
 
 Whether you’re into hacking, Linux, or just curious about my project — hit me up!  
 📫 [LinkedIn](https://www.linkedin.com/in/franciszek-malek/)
